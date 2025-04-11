@@ -197,7 +197,7 @@
     <th>🔗 QR Code</th>
   </tr>
   <tr>
-    <td><a href="#">Click to Download</a></td>
+    <td><a href="https://rb.gy/qdtm6q">Click to Download</a></td>
     <td><img src="#" alt="QR Code" width="150"/></td>
   </tr>
 </table>
