@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="#" alt="Project Preview" width="600"/> <!-- Replace # with actual image -->
+  <img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/FP.png" alt="Project Preview" width="600"/> <!-- Replace # with actual image -->
 </p>
 
 ---
@@ -155,31 +155,31 @@
   </tr>
   <tr>
     <td>🌐 Intro Screen</td>
-    <td><img src="#" alt="Intro Screen" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/60199856-73e33d80-9862-11e9-850e-467f089f63cc.png" alt="Intro Screen" width="400"/></td>
   </tr>
   <tr>
     <td>🧰 Full Desktop View</td>
-    <td><img src="#" alt="Desktop View" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D1.jpeg" alt="Desktop View" width="400"/></td>
   </tr>
   <tr>
     <td>🔍 Disassembled View</td>
-    <td><img src="#" alt="Disassembled View" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D2.jpeg" alt="Disassembled View" width="400"/></td>
   </tr>
   <tr>
     <td>🧠 CPU Zoom</td>
-    <td><img src="#" alt="CPU" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D3.jpeg" alt="CPU" width="400"/></td>
   </tr>
   <tr>
     <td>🔧 GPU Close-up</td>
-    <td><img src="#" alt="GPU" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D4.jpeg" alt="GPU" width="400"/></td>
   </tr>
   <tr>
     <td>🖼️ Textured Motherboard</td>
-    <td><img src="#" alt="Motherboard" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D6.jpeg" alt="Motherboard" width="400"/></td>
   </tr>
   <tr>
     <td>❄️ Cooling System Animation</td>
-    <td><img src="#" alt="Cooling" width="400"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/D5.jpeg" alt="Cooling" width="400"/></td>
   </tr>
 </table>
 
