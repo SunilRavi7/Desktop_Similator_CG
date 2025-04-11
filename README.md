@@ -198,7 +198,7 @@
   </tr>
   <tr>
     <td><a href="https://rb.gy/qdtm6q">Click to Download</a></td>
-    <td><img src="#" alt="QR Code" width="150"/></td>
+    <td><img src="https://github.com/SunilRavi7/Graphical-Simulation-of-Desktop-and-its-Componenets/blob/main/related%20images/rb.gy.qdtm6q.png" alt="QR Code" width="150"/></td>
   </tr>
 </table>
 
